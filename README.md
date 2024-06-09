@@ -4,12 +4,12 @@
 
 ## Overview
 
-[Action Name] is a GitHub Action that [brief description of what the action does]. This action helps to [explain the primary use case or functionality].
+[building_blocks] is a GitHub Action that show structure of Github actions and how did work. This action helps to study and show steps tp create a yml file that will work on actions.
 
 ## Features
 
-- Feature 1
-- Feature 2
+- building blocks
+- use events like push or etc...
 - Feature 3
 
 ## Usage
@@ -17,7 +17,7 @@
 To use this GitHub Action, you need to add a new workflow file to your repository under `.github/workflows` directory. Below is an example of how to configure this action:
 
 ```yaml
-name: [Workflow Name]
+name: [building_blocks]
 
 on: 
   push:
