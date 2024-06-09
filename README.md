@@ -1,8 +1,6 @@
+# GitHub Action: [building_blocks]
 
-
-# GitHub Action: [Action Name]
-
-[![GitHub Actions status](https://github.com/[OWNER]/[REPOSITORY]/workflows/[WORKFLOW_NAME]/badge.svg)](https://github.com/[OWNER]/[REPOSITORY]/actions)
+[![GitHub Actions status](https://github.com/iahmedelbayaa/github-action-course/workflows/building_blocks/badge.svg)](https://github.com/iahmedelbayaa/github-action-course/actions)
 
 ## Overview
 
