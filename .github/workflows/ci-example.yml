@@ -1,4 +1,4 @@
-name: CI Pipeline/Workflow
+name: 04 - CI Pipeline/Workflow
 
 on:
   push:
